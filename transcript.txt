@@ -1,0 +1,278 @@
+# Compile of control.v was successful.
+# Compile of control_tb.v was successful.
+# Compile of alu.v was successful.
+# Compile of PowerALU_James_Starks.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart -f
+# Loading work.PowerALU_James_Starks
+# Loading work.control
+# Loading work.alu
+run
+# 
+# Op:xxxx	A:xxxxxxxx	B:xxxxxxxx	ACC:x	Accumulator:00000000
+# Results:zzzzzzzz
+# 
+# Op:0000	A:00110000	B:00011101	ACC:0	Accumulator:00000000
+# Results:zzzzzzzz
+# 
+# Op:0000	A:00110000	B:00011101	ACC:0	Accumulator:00110000
+# Results:zzzzzzzz
+# 
+# Op:0000	A:00110000	B:00011101	ACC:0	Accumulator:00110000
+# Results:00110000
+# 
+# Op:0001	A:00110000	B:00011101	ACC:0	Accumulator:00110000
+# Results:00110000
+# 
+# Op:0001	A:00110000	B:00011101	ACC:0	Accumulator:00110001
+# Results:00110000
+# 
+# Op:0001	A:00110000	B:00011101	ACC:0	Accumulator:00110001
+# Results:00110001
+# 
+# Op:0010	A:00110000	B:00011101	ACC:0	Accumulator:00110001
+# Results:00110001
+# 
+# Op:0010	A:00110000	B:00011101	ACC:0	Accumulator:01001101
+# Results:00110001
+# 
+# Op:0010	A:00110000	B:00011101	ACC:0	Accumulator:01001101
+# Results:01001101
+# 
+# Op:0011	A:00110000	B:00011101	ACC:0	Accumulator:01001101
+# Results:01001101
+# 
+# Op:0011	A:00110000	B:00011101	ACC:0	Accumulator:00010011
+# Results:01001101
+# 
+# Op:0011	A:00110000	B:00011101	ACC:0	Accumulator:00010011
+# Results:00010011
+# 
+# Op:0100	A:00110000	B:00011101	ACC:0	Accumulator:00010011
+# Results:00010011
+run
+# 
+# Op:0100	A:00110000	B:00011101	ACC:0	Accumulator:00101111
+# Results:00010011
+# 
+# Op:0100	A:00110000	B:00011101	ACC:0	Accumulator:00101111
+# Results:00101111
+# 
+# Op:0101	A:00110000	B:00011101	ACC:0	Accumulator:00101111
+# Results:00101111
+# 
+# Op:0101	A:00110000	B:00011101	ACC:0	Accumulator:11001111
+# Results:00101111
+# 
+# Op:0101	A:00110000	B:00011101	ACC:0	Accumulator:11001111
+# Results:11001111
+# 
+# Op:0110	A:00110000	B:00011101	ACC:0	Accumulator:11001111
+# Results:11001111
+# 
+# Op:0110	A:00110000	B:00011101	ACC:0	Accumulator:00010000
+# Results:11001111
+# 
+# Op:0110	A:00110000	B:00011101	ACC:0	Accumulator:00010000
+# Results:00010000
+# 
+# Op:0111	A:00110000	B:00011101	ACC:0	Accumulator:00010000
+# Results:00010000
+# 
+# Op:0111	A:00110000	B:00011101	ACC:0	Accumulator:11101111
+# Results:00010000
+# 
+# Op:0111	A:00110000	B:00011101	ACC:0	Accumulator:11101111
+# Results:11101111
+# 
+# Op:1000	A:00110000	B:00011101	ACC:0	Accumulator:11101111
+# Results:11101111
+# 
+# Op:1000	A:00110000	B:00011101	ACC:0	Accumulator:00111101
+# Results:11101111
+# 
+# Op:1000	A:00110000	B:00011101	ACC:0	Accumulator:00111101
+# Results:00111101
+# 
+# Op:1001	A:00110000	B:00011101	ACC:0	Accumulator:00111101
+# Results:00111101
+run
+# 
+# Op:1001	A:00110000	B:00011101	ACC:0	Accumulator:11000010
+# Results:00111101
+# 
+# Op:1001	A:00110000	B:00011101	ACC:0	Accumulator:11000010
+# Results:11000010
+# 
+# Op:1010	A:00110000	B:00011101	ACC:0	Accumulator:11000010
+# Results:11000010
+# 
+# Op:1010	A:00110000	B:00011101	ACC:0	Accumulator:00101101
+# Results:11000010
+# 
+# Op:1010	A:00110000	B:00011101	ACC:0	Accumulator:00101101
+# Results:00101101
+# 
+# Op:1011	A:00110000	B:00011101	ACC:0	Accumulator:00101101
+# Results:00101101
+# 
+# Op:1011	A:00110000	B:00011101	ACC:0	Accumulator:11010010
+# Results:00101101
+# 
+# Op:1011	A:00110000	B:00011101	ACC:0	Accumulator:11010010
+# Results:11010010
+# 
+# Op:1100	A:00110000	B:00011101	ACC:0	Accumulator:11010010
+# Results:11010010
+# 
+# Op:1100	A:00110000	B:00011101	ACC:0	Accumulator:00110000
+# Results:11010010
+# 
+# Op:1100	A:00110000	B:00011101	ACC:0	Accumulator:00110000
+# Results:00110000
+# 
+# Op:1101	A:00110000	B:00011101	ACC:0	Accumulator:00110000
+# Results:00110000
+# 
+# Op:1101	A:00110000	B:00011101	ACC:0	Accumulator:00011101
+# Results:00110000
+# 
+# Op:1101	A:00110000	B:00011101	ACC:0	Accumulator:00011101
+# Results:00011101
+# 
+# Op:1110	A:00110000	B:00011101	ACC:0	Accumulator:00011101
+# Results:00011101
+run
+# 
+# Op:1110	A:00110000	B:00011101	ACC:0	Accumulator:zzzzzzzz
+# Results:00011101
+# 
+# Op:1110	A:00110000	B:00011101	ACC:0	Accumulator:zzzzzzzz
+# Results:zzzzzzzz
+# 
+# Op:1111	A:00110000	B:00011101	ACC:0	Accumulator:zzzzzzzz
+# Results:zzzzzzzz
+# 
+# Op:0000	A:00110000	B:00011101	ACC:1	Accumulator:zzzzzzzz
+# Results:zzzzzzzz
+# 
+# Op:0000	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:zzzzzzzz
+# 
+# Op:0000	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
+# Op:0001	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
+# Op:0001	A:00110000	B:00011101	ACC:1	Accumulator:00110001
+# Results:00110000
+# 
+# Op:0001	A:00110000	B:00011101	ACC:1	Accumulator:00110001
+# Results:00110001
+# 
+# Op:0010	A:00110000	B:00011101	ACC:1	Accumulator:00110001
+# Results:00110001
+# 
+# Op:0010	A:00110000	B:00011101	ACC:1	Accumulator:01100001
+# Results:00110001
+# 
+# Op:0010	A:00110000	B:00011101	ACC:1	Accumulator:01100001
+# Results:01100001
+# 
+# Op:0011	A:00110000	B:00011101	ACC:1	Accumulator:01100001
+# Results:01100001
+run
+# 
+# Op:0011	A:00110000	B:00011101	ACC:1	Accumulator:11001111
+# Results:01100001
+# 
+# Op:0011	A:00110000	B:00011101	ACC:1	Accumulator:11001111
+# Results:11001111
+# 
+# Op:0100	A:00110000	B:00011101	ACC:1	Accumulator:11001111
+# Results:11001111
+# 
+# Op:0100	A:00110000	B:00011101	ACC:1	Accumulator:00101111
+# Results:11001111
+# 
+# Op:0100	A:00110000	B:00011101	ACC:1	Accumulator:00101111
+# Results:00101111
+# 
+# Op:0101	A:00110000	B:00011101	ACC:1	Accumulator:00101111
+# Results:00101111
+# 
+# Op:0101	A:00110000	B:00011101	ACC:1	Accumulator:11001111
+# Results:00101111
+# 
+# Op:0101	A:00110000	B:00011101	ACC:1	Accumulator:11001111
+# Results:11001111
+# 
+# Op:0110	A:00110000	B:00011101	ACC:1	Accumulator:11001111
+# Results:11001111
+# 
+# Op:0110	A:00110000	B:00011101	ACC:1	Accumulator:00000000
+# Results:11001111
+# 
+# Op:0110	A:00110000	B:00011101	ACC:1	Accumulator:00000000
+# Results:00000000
+# 
+# Op:0111	A:00110000	B:00011101	ACC:1	Accumulator:00000000
+# Results:00000000
+# 
+# Op:0111	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:00000000
+# 
+# Op:0111	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:11111111
+# 
+# Op:1000	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:11111111
+run
+# 
+# Op:1001	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:11111111
+# 
+# Op:1001	A:00110000	B:00011101	ACC:1	Accumulator:00000000
+# Results:11111111
+# 
+# Op:1001	A:00110000	B:00011101	ACC:1	Accumulator:00000000
+# Results:00000000
+# 
+# Op:1010	A:00110000	B:00011101	ACC:1	Accumulator:00000000
+# Results:00000000
+# 
+# Op:1010	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00000000
+# 
+# Op:1010	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
+# Op:1011	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
+# Op:1011	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:00110000
+# 
+# Op:1011	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:11111111
+# 
+# Op:1100	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:11111111
+# 
+# Op:1101	A:00110000	B:00011101	ACC:1	Accumulator:11111111
+# Results:11111111
+run
+# 
+# Op:1101	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:11111111
+# 
+# Op:1101	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
+# Op:1110	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
+# Op:1111	A:00110000	B:00011101	ACC:1	Accumulator:00110000
+# Results:00110000
+# 
