@@ -11,8 +11,8 @@ The goal of this project was to design an 8-bit ALU which implements 16 operatio
     ACC: Accumulator select bit 
         High: Use previous result stored in the accumulator register for right-hand-side of operand.
         Low: Use B immediate value for right-hand-side of operand.
-    A: Immediate value used for all left-hand-side of operand (signed).
-    B: Immediate value used for right-hand-side of operand depending on acc bit (signed).
+    A: Immediate value used for all left-hand-side of operand.
+    B: Immediate value used for right-hand-side of operand depending on acc bit.
     OPCODE: Operand select.
 ### Opcode Overview
 | OPCODE | Instruction  |
